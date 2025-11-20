@@ -8,4 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site:'https://Logs22.github.io',
+  base:'/devportfolio/',
 });
