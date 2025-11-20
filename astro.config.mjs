@@ -7,6 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site:'https://Logs22.github.io',
+  site:'https://Logs22.github.io/Portfolio/',
   base:'/Portfolio/',
 });
