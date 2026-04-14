@@ -13,6 +13,12 @@ export const siteConfig = {
   skills: ["SQL, Python, HTML, Linux,"],
   projects: [
     {
+      name: "Home Lab",
+      description:
+        "Created a home lab that consists of a Proxmox server running multiple virtual machines that are used for learning and testing new technologies. Hosts a variety of services such as a media server, web server, and different docker packages for various use cases.",
+      skills: ["Linux", "Proxmox", "Docker"],
+    }
+    {
       name: "Forked Add-on",
       description:
         "Took a depreciated media add-on to a popular app and forked it with new API Keys, Names, Icons, and code to revitalize the add-on and make it work again",
@@ -71,6 +77,7 @@ export const siteConfig = {
       achievements: [
         "President of The Navigators",
         "Dean's List all semesters",
+        "Relevant Classes: Intro to Databases, Scripting 1, Predictive Analytics, Cybersecurity Analysis 1 + 2, Intro to Ethical Hacking, Linux + Windows Administration, and many more",
       ],
     },
   ],
