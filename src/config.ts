@@ -17,7 +17,7 @@ export const siteConfig = {
       description:
         "Created a home lab that consists of a Proxmox server running multiple virtual machines that are used for learning and testing new technologies. Hosts a variety of services such as a media server, web server, and different docker packages for various use cases.",
       skills: ["Linux", "Proxmox", "Docker"],
-    }
+    },
     {
       name: "Forked Add-on",
       description:
