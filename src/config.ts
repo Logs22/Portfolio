@@ -44,9 +44,9 @@ export const siteConfig = {
       title: "Data Developer Intern",
       dateRange: "May 2025 - Present",
       bullets: [
-        "Developed new procedures and automations using SQL",
-        "Standardized numberous procedures to removed depreciated code and configurations",
-        "Created new procedures required by end users that improved workflows and business tasks using SQL and SSIS packages",
+        "Developed and deployed automated SQL stored procedures and SSIS packages to improve workflows and business tasks",
+        "Standardized legacy databases by eliminating depreciated code, updating bash scripts, and creating new stored procedures",
+        "Translated end-user business requirements into custom SQL scripts and reporting tools to support cross-functional operational needs",
       ],
     },
     {
